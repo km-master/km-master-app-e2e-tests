@@ -1,0 +1,24 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "password"
+  },
+  {
+    "email": "test@test.com",
+    "password": "Password"
+  },
+  {
+    "email": "nieistnieje@konto.pl",
+    "password": "password"
+  },
+  {
+    "email": "Test@test.com",
+    "password": "password"
+  },
+  {
+    "email": "test@test,com",
+    "password": "password"
+  }
+]
+
+
